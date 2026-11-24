@@ -2,3 +2,8 @@ This project presents an in-depth Exploratory Data Analysis (EDA) and operationa
 The dataset was downloaded from exploremydata.com, and the set contains 10 rows and 1000 columns with some missing values. Data was analysed and visualised using Python. The analysis begins by loading the dataset and reviewing its structure, column types, missing values, duplicate records, incorrect data types, checking for outliers etc. The data was then cleaned and pre-processed before exploratory data analysis and visualisation using various charts from Matplotlib, Seaborn and Plotly. 
 The Exploratory Data Analysis (EDA) phase examined the behaviours, distributions, and hidden relationships in the customer support tickets dataset. The EDA uses descriptive statistics, group averages and category counts. 
 The Visualisations include Volume of tickets by Channel, Volume of tickets by Category, Ticket Volumes Over Months, Distribution of First Response Time, Distribution of Resolution Time, Ticket count by Status, Average Resolution Time by Priority Level, Average First Response Time by Priority Level, Customer Satisfaction Score distribution, Average CSAT by Channel and Correlation Heatmap. 
+
+The tools used were-
+Data Manipulation: pandas and numpy (cleaning, handling missing data, and feature engineering).
+Static Visuals: matplotlib and seaborn (box plots, histograms, and correlation heatmaps).
+Interactive Visuals: plotly (bar and line charts tracking volumes by channel, category, and month).
